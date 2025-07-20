@@ -61,12 +61,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of:* Resume Upload, Job Fit Score, Recommendations, Visual Charts *)*
-
----
-
 ## 🚀 Future Enhancements
 
 * Resume ranking for bulk applicants
@@ -80,7 +74,7 @@ streamlit run app.py
 
 **Aryan Padhye**
 B.Tech CSE | Java Backend | ML Enthusiast
-[LinkedIn](#) | [Portfolio](#) | [GitHub](https://github.com/your-username)
+[LinkedIn](#) | [Portfolio](#) | [GitHub](https://github.com/AryanP12)
 
 ---
 
